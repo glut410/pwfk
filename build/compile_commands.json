@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/student/桌面/linux-passwd-crack/build",
-  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -o CMakeFiles/linux-passwd-crack.dir/main.cpp.o -c /home/student/桌面/linux-passwd-crack/main.cpp",
-  "file": "/home/student/桌面/linux-passwd-crack/main.cpp"
-}
-]
